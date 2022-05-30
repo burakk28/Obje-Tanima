@@ -6,13 +6,7 @@ import cv2
 import numpy as np
 
 #resmi çağırıyoruz
-img = cv2.imread ('test5.jpg')
-#img = cv2.imread ('test2.jpg')
-#img = cv2.imread ('test3.jpg')
-#img = cv2.imread ('test4.jpg')
-#img = cv2.imread ('test5.jpg')
-
-
+img = cv2.imread ('test.jpg')
 
 
 #resmin enini ve boyunu tuttuğumuz alan
