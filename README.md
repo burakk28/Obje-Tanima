@@ -1,15 +1,16 @@
 # Obje-Tanima
 
 
-Nesne tespiti yöntemleri genellikle sinir ağı tabanlı veya sinirsel olmayan yaklaşımlara girer. Biz de projemizde sinir ağ yaklaşımı olan YOLO’yu kullandık .
-YOLO (You Only Look Once) Tek Bir Sefer Bak algoritmaları bu alandaki performans, kesinlik ve doğruluk açısından tatmin edici sonuçlar verebilen önde gelen algoritmalardandır. Sinir ağı yaklaşımını temel alan YOLO algoritmaları farklı nesne tespit yapılarını (framework) kullanmaktadır.
+Nesne tespiti yöntemleri genellikle sinir ağı tabanlı veya sinirsel olmayan yaklaşımlara girer. 
+Bende de projemde sinir ağ yaklaşımı olan YOLO’yu kullandım .
+YOLO (You Only Look Once) Tek Bir Sefer Bak algoritmaları bu alandaki performans, kesinlik ve doğruluk açısından tatmin edici sonuçlar verebilen önde gelen algoritmalardandır.
+ Sinir ağı yaklaşımını temel alan YOLO algoritmaları farklı nesne tespit yapılarını (framework) kullanmaktadır.
 
-Projemizde Yolo ve Opencv kullanarak resimden nesne tanıma işlemini yapıyoruz.
+Projemde Yolo ve Opencv kullanarak resimden nesne tanıma işlemini yapıyorum.
 
-Örnek olarak ‘insan', 'bisiklet', 'araba', 'motorsiklet', 'ucak', 'otobüs’, 'trafik lambasi’, 'kus', 'kedi', 'kopek', 'at', 'sise', 'bardak', 'kupa', 'catal',  'kase', 'muz', 'elma', 'portakal',  'pizza',  'sandalye',  'yemek masasi', 'laptop', 'mikrodalga', 'firin', 'tost makinesi',  'kitap', 'saat', 'vazo’, gibi 80 den fazla nesneyi tanıyarak Etiket üzerinde gösteriyoruz.
+Örnek olarak ‘insan', 'bisiklet', 'araba', 'motorsiklet', 'ucak', 'otobüs’, 'trafik lambasi’, 'kus', 'kedi', 'kopek', 'at', 'sise', 'bardak', 'kupa', 'catal',  'kase', 'muz', 'elma', 'portakal',  'pizza',  'sandalye',  'yemek masasi', 'laptop', 'mikrodalga', 'firin', 'tost makinesi',  'kitap', 'saat', 'vazo’, gibi 80 den fazla nesneyi tanıyarak Etiket üzerinde gösteriyorum.
 
-Görselden nesneyi tanıma örneği olarak 5 adet fotoğraf diğer slaytlarda mevcut![image](https://user-images.githubusercontent.com/77745850/182669553-3ec43c45-5809-40a8-aa06-33a736c3ecb9.png)
-
+Görselden nesneyi tanıma örneği olarak 5 adet fotoğraf aşağıda mevcut ;
 
 
 
