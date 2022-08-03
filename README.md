@@ -16,7 +16,6 @@ Görselden nesneyi tanıma örneği olarak 5 adet fotoğraf aşağıda mevcut ;
 
 
 
-
 <p float="left">
   <img src="https://user-images.githubusercontent.com/77745850/182667954-3097ee97-7c77-44f8-9e55-968f9fb0ad67.jpeg" width="500" />
   <img src="https://user-images.githubusercontent.com/77745850/182667946-d41acdd8-241b-4343-b3f4-ffcb2cc86238.jpeg" width="400"/> 
