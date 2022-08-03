@@ -11,8 +11,5 @@
 
 
 
-![e](https://user-images.githubusercontent.com/77745850/182667935-6ddc3725-ce70-4ecc-a338-f7e157c318a0.jpeg)
-![d](
-![c](
-![b]()
-![a]()
+<center>(https://user-images.githubusercontent.com/77745850/182667935-6ddc3725-ce70-4ecc-a338-f7e157c318a0.jpeg)
+
