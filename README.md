@@ -3,6 +3,8 @@
 
 Nesne tespiti yöntemleri genellikle sinir ağı tabanlı veya sinirsel olmayan yaklaşımlara girer. 
 Bende de projemde sinir ağ yaklaşımı olan YOLO’yu kullandım .
+
+
 YOLO (You Only Look Once) Tek Bir Sefer Bak algoritmaları bu alandaki performans, kesinlik ve doğruluk açısından tatmin edici sonuçlar verebilen önde gelen algoritmalardandır.
  Sinir ağı yaklaşımını temel alan YOLO algoritmaları farklı nesne tespit yapılarını (framework) kullanmaktadır.
 
